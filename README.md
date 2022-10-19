@@ -6,4 +6,5 @@ Tengo pensado agregarle mas funcionalidades, por ahora solo hay 2 disponibles<br
 Para probarlo solo deben ejecutar el bash install.sh<br>
 Despues compilar con gcc el fichero compile.c<br>
 Y luego ejecutar el ./a.out
-</p>
+</p><br>
+<img src="tempalte.png">
