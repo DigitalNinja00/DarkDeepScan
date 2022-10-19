@@ -1,0 +1,5 @@
+Nombre del host www.huaweimobilewifi.com
+port open 53
+port open 80
+port open 443
+DDS--Escaneo bAsico Finalizado (10.000 puertos escaneados)

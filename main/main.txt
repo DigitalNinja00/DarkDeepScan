@@ -1,0 +1,6 @@
+1[Escaneo de puertos simple]
+2[Escaneo de puerto especifico]
+3[Encontrar AnonymousFTPLogin]
+4[Verificar existencia de servidor apache]
+5[Buscador de directorios en servidor]
+0[Cerrar Programa]
