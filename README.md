@@ -7,4 +7,4 @@ Para probarlo solo deben ejecutar el bash install.sh<br>
 Despues compilar con gcc el fichero compile.c<br>
 Y luego ejecutar el ./a.out
 </p><br>
-<img src="tempalte.png">
+<img src="template.png">
