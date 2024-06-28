@@ -3,13 +3,13 @@ import time
 import socket
 
 
-class Pendejada:
-	def gethost(direccion):
+class dir:
+	def gethost(address):
 		try:
 			more = socket.gethostbyaddr(direccion)
-			print("Nombre del host {}".format(more[0]))
+			print("hostname {}".format(more[0]))
 		except OSError:
-			print("Error al obtener el nombre del host")
+			print("Hostname error")
 
 class Principal:
 	def funtion_main_scan():
@@ -23,7 +23,7 @@ class Principal:
 				else:
 					pass
 		except OSError:
-			print("Error al realizar el escaneo de puertos")
-Pendejada.gethost(sys.argv[1])
+			print("Port scan error")
+dir.gethost(sys.argv[1])
 Principal.funtion_main_scan()
-print("DDS--Escaneo bAsico Finalizado (10.000 puertos escaneados)")
+print("DDS--Basic Scan finished (10.000 ports scanned)")
